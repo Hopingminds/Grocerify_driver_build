@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.046171da.css",
+    "main.js": "/static/js/main.2b9d4526.js",
+    "static/media/pic.svg": "/static/media/pic.1585af57f125a044a54cb1b2607d1f6c.svg",
+    "static/media/bg.png": "/static/media/bg.6815ccd62a836cf74689.png",
+    "static/media/grocerify.svg": "/static/media/grocerify.c305461bda38607abb133beaac3e897c.svg",
+    "static/media/map.png": "/static/media/map.136973ac827b59735880.png",
+    "static/media/map2.png": "/static/media/map2.7f6d5ac96020588baa19.png",
+    "static/media/deliver.png": "/static/media/deliver.2ccb0a9af107ec8cf244.png",
+    "static/media/bank2.svg": "/static/media/bank2.4308a29b479e22d7efebd3e4dc7e800d.svg",
+    "static/media/call.svg": "/static/media/call.806b55a58bc40c8ffcee5834c7f09f3a.svg",
+    "static/media/time.svg": "/static/media/time.fdce4e60e2e8cf8eb6e0695cedd6de47.svg",
+    "static/media/calender.svg": "/static/media/calender.0d60b9b1cf738bd49067b59e8fca2948.svg",
+    "static/media/pencil.svg": "/static/media/pencil.a1c50805c6df6fbbbc3d6c0e8f610e7d.svg",
+    "static/media/shop.svg": "/static/media/shop.fceb5d392f6489de3943eafc0d85c7f9.svg",
+    "static/media/notify.svg": "/static/media/notify.8fcbf9af66db2b038e46b42e8188c877.svg",
+    "static/media/mail.svg": "/static/media/mail.01cc06ad4275d4cd7f49029160cb1b59.svg",
+    "static/media/user3.svg": "/static/media/user3.ca8778670e317c10a9c6f6b661d84e56.svg",
+    "static/media/note.svg": "/static/media/note.94f8ed269ff4496be5ea8ca0f2c8128c.svg",
+    "static/media/burger.svg": "/static/media/burger.f0ba067f5f3303aff645b1ccb476c412.svg",
+    "static/media/location.svg": "/static/media/location.e697aa1ccdd71bcd21ecaeaacaee0cb2.svg",
+    "static/media/user.svg": "/static/media/user.e3ad6bb37edd0198ca19306b400d5947.svg",
+    "static/media/user2.svg": "/static/media/user2.4aaa7913d8b0de5e124885f0b8c4b991.svg",
+    "index.html": "/index.html",
+    "static/media/upload.svg": "/static/media/upload.e34a5faf67f68b503d76dd1cbabd3ffc.svg",
+    "static/media/add.svg": "/static/media/add.99f3d8c5dc6325bac4b79b494a857dd6.svg",
+    "main.046171da.css.map": "/static/css/main.046171da.css.map",
+    "main.2b9d4526.js.map": "/static/js/main.2b9d4526.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.046171da.css",
+    "static/js/main.2b9d4526.js"
+  ]
+}
